@@ -18,5 +18,11 @@
    "sizes": "512x512",
    "type": "image/png"
   }
+ ],
+ "id": "./gestor.html",
+ "orientation": "any",
+ "categories": [
+  "business",
+  "productivity"
  ]
 }
