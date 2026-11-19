@@ -1,0 +1,22 @@
+{
+ "name": "METODEX CEO - Demonstracao",
+ "short_name": "METODEX CEO",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0f2742",
+ "theme_color": "#0f2742",
+ "lang": "pt-BR",
+ "icons": [
+  {
+   "src": "assets/icone_192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icone_512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
