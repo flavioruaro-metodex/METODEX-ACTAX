@@ -1,0 +1,22 @@
+{
+ "name": "METODEX Dashboard Operacional",
+ "short_name": "METODEX Operac.",
+ "start_url": "./operacional.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#e07b20",
+ "theme_color": "#e07b20",
+ "lang": "pt-BR",
+ "icons": [
+  {
+   "src": "assets/icone_ope_192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icone_ope_512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
